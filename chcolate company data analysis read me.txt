@@ -1,0 +1,10 @@
+.>connecting datasets for similarities like geography
+.>eliminating blank in bar chat with spacing problem fix in countries by using power query
+.>making clustered bar chat for amount by team with sum of sales amount but again blank is their so we will use power query to replace null values with 'special'word 
+.>next step is using data analytics expression for calculating custom things here I calculated total sales amount by sales person 
+.>adding filter also called as slicer with team query
+.>we format the table and rows by format visual
+.>we make sales performance report
+.>we repeat and make slicer with another table now we display employee pictures and add data bars
+in column tools we add data category as image url
+.>now we add graphs to understand or compare future present trend with team on customers,amount
